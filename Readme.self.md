@@ -11,3 +11,11 @@
     --minimal true --interactive false --prefix "app" --style "scss" \
     --skip-git true --skip-tests --force --dry-run
    ```
+6. Setup Testing with Jest like here: 
+   https://www.amadousall.com/how-to-set-up-angular-unit-testing-with-jest/
+   
+   1. `npm install jest jest-preset-angular @types/jest --save-dev`
+   2. setup `jest.config.js`
+   3. ignore `coverage` directory
+   4. add test.ts file which sets up jest testing environment after jest.config
+   5. Create `tsconfig.spec.json` file with content from blog
