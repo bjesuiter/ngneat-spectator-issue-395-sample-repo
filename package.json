@@ -1,0 +1,16 @@
+{
+  "name": "ngneat-spectator-issue-395-sample-repo",
+  "version": "1.0.0",
+  "description": "Sample Repo for Issue 395 for @ngneat/spectator",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
+  "license": "MIT"
+}
